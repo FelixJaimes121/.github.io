@@ -35,7 +35,15 @@ h3 {font-style: : comic sans ms;
 }
 
 p {
-  color: #000066;
+  color: #000066
+}
+
+ol {
+  color: #000066
+}
+
+ul {
+  color: #000066
 }
 
 table, th, td {border: 2px solid black;
