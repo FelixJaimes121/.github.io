@@ -15,20 +15,29 @@
   }
 }
 
+.header {
+  background-color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
 body {
   background-color: powderblue;
 }
 
 h1 {
   color: #0033cc;
+  text-align: center;
 }
 
 h3 {font-style: : comic sans ms;
+	text-align: center;
 }
 
 p {
   color: #000066;
 }
 
-table, th, td {border: 2px solid black;}
+table, th, td {border: 2px solid black;
+text-align: center;}
 
